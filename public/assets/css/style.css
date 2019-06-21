@@ -1,0 +1,19 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: rgb(75, 6, 121);
+    color: rgba(255, 251, 251, 0.815);
+    font-family: 'Exo 2', sans-serif;
+}
+
+.header {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+hr {
+    background-color: rgba(255, 251, 251, 0.815);
+}
